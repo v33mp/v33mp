@@ -1,4 +1,4 @@
-<img align='left' src='./asset/ava.png' width='25%' heigh="35%">
+<img align='left' src='./ava.png' width='25%' heigh="35%">
 
 # veemp?
 
