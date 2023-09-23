@@ -6,7 +6,7 @@ Hi, I am VeeMP. I am a active developer, I have been coding for almost 2+ years 
 
 ![Website](https://img.shields.io/website?down_color=Red&down_message=Site%20Up&up_color=ff4865&up_message=Site%20Up&url=https%3A%2F%2Fveemp.net)
 ![Discord](https://img.shields.io/discord/1134073673364549662?color=ff4865&logo=Discord&logoColor=ff4865)
-[![BANNER]([https://img.shields.io/badge/Discord-%20Seloria%20-ff4865)](https://discord.gg/seloria)
+[![BANNER](https://img.shields.io/badge/Discord-%20Seloria%20-ff4865)](https://discord.gg/seloria)
 
 # Skills
 <p align="center">
